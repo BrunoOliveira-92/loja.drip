@@ -18,11 +18,11 @@ const categoryIcons = [
 ];
 
 const productsData = [
-  { id: 1, name: "Nike Air Max 270", image: "https://images.tcdn.com.br/img/img_prod/740066/tenis_nike_air_max_270_react_optical_preto_cinza_389_1_20200120160045.jpg", price: 200, priceDiscount: 149.9, category: "Tênis" },
-  { id: 2, name: "Adidas Ultraboost", image: "https://authenticfeet.vtexassets.com/arquivos/ids/434723-800-800?v=638562278565370000&width=800&height=800&aspect=true", price: 200, category: "Tênis", priceDiscount: 180 },
-  { id: 3, name: "Puma RS-X", image: "https://a-static.mlcdn.com.br/800x560/tenis-puma-rs-x-3d-masculino/b2online/3943110242/53502c5bb7a4aca0addb96f6ac8635a6.jpeg", price: 99.9, category: "Tênis", priceDiscount: 89.9 },
+  { id: 1, name: "Nike Air Max 270", image: "https://imgnike-a.akamaihd.net/360x360/0163497WA1.jpg", price: 299.99, priceDiscount: 209.99, category: "Tênis" },
+  { id: 2, name: "Adidas Ultraboost", image: "https://authenticfeet.vtexassets.com/arquivos/ids/434723-800-800?v=638562278565370000&width=800&height=800&aspect=true", price: 349.99, category: "Tênis", priceDiscount: 249.99 },
+  { id: 3, name: "Puma RS-X", image: "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa/global/394302/51/sv01/fnd/BRA/w/1000/h/1000/fmt/png", price: 279.99, category: "Tênis", priceDiscount: 199.99 },
   { id: 4, name: "New Balance 574", image: "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/new-balance/masculino/tenis-new-balance-574-v2-masculino-vinho---cinza-8784-24-01-24-00-1200x1200.jpg", price: 150, category: "Tênis", priceDiscount: 120 },
-  { id: 5, name: "Asics Gel-Kayano", image: "https://asicsbr.vteximg.com.br/arquivos/ids/2744214-1000-1000/null.jpg", price: 75, category: "Tênis" },
+  { id: 5, name: "Asics Gel-Kayano", image: "https://artwalk.vtexassets.com/arquivos/ids/581808/03A74-0-750-1-AW-800x1000.jpg?v=638905364040330000", price: 299.99, category: "Tênis" },
   { id: 6, name: "Reebok Classic Leather", image: "https://static.hupishop.com.br/public/hupibikes/imagens/produtos/tenis-reebok-classic-nylon-bege-feminino-667d9a2cdd458.jpg", price: 30, category: "Tênis" },
   { id: 7, name: "Vans Old Skool", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzBJ4a69-eDi4bOCihhjxFyiC9WWKC9krq3A&s", price: 200, priceDiscount: 180, category: "Tênis" },
   { id: 8, name: "Converse Chuck Taylor", image: "https://cloviscalcados.vteximg.com.br/arquivos/ids/1036233-1024-1024/Tenis-Masculino-Chuck-Taylor-Converse-All-Star-CT00040007-0320004_001-02.jpg?v=638364710577700000", price: 250, category: "Tênis" },

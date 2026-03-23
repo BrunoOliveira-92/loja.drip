@@ -1,5 +1,6 @@
 import { NavLink } from 'react-router-dom';
 
+
 const MainNav = () => {
   const navLinkClass = ({ isActive }) =>
     `text-base px-3 pb-2 font-medium transition-colors duration-200 flex-shrink-0 ${ 
